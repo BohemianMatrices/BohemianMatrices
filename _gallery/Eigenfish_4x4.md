@@ -1,6 +1,5 @@
 ---
 title: "Eigenfish 4x4"
-rating: 7
 image: "Eigenfish_4x4"
 use_math: true
 description: "Eigenvalues of the matrix

@@ -1,6 +1,5 @@
 ---
 title: "Eigenfish 3x3"
-rating: 20
 image: "Eigenfish_3x3"
 use_math: true
 description: "Eigenvalues of the matrix
