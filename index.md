@@ -17,3 +17,7 @@ When this project was in its early stages, our focus was on random integer matri
 
 ### Contact
 If you are interested in learning more about Bohemian eigenvalues, feel free to contact <a href="http://steventhornton.ca" target="_blank">Steven Thornton</a> at <a href="mailto:sthornt7@uwo.ca">sthornt7@uwo.ca</a>, or <a href="http://www.apmaths.uwo.ca/~rcorless/" target="_blank">Rob Corless</a> at <a href="mailto:rcorless@uwo.ca">rcorless@uwo.ca</a> for more information.
+
+Visit the <a href="http://www.orcca.on.ca/" target="_blank">Ontario Research Centre for Computer Algebra (ORCCA)</a> homepage for details on other projects in our research group.
+
+
