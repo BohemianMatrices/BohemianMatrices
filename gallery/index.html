@@ -1,31 +1,32 @@
 ---
 layout: default
 galleryItems:
+    - UpperHessenbergToeplitz_12x12
+    - Random_5x5_1
+    - Beta_4x4
     - Tridiagonal_10x10_1
     - Mandelbrot_3_19
-    - Random_5x5_1
-    - Littlewood_19
+    - Euclid_27
     - Fibonacci_Mandelbrot_4_30
     - Narayana_Mandelbrot_4_36
-    - Tridiagonal_20x20_2
-    - Geometric_5x5
-    - ComplexSymmetric_5x5
-    - Beta_4x4
-    - Random_5x5_2
     - Antipentadiagonal_20x20_1
     - Tridiagonal_15x15_1
+    - Cauchy_5x5
+    - Circulant_15x15
+    - Tridiagonal_20x20_2
+    - ComplexSymmetric_5x5
+    - Geometric_5x5
+    - Random_5x5_2
     - Eigenfish_4x4
     - Fibonacci_5x5
     - Antitridiagonal_20x20_1
     - Antitridiagonal_20x20_2
     - Beta_3x3
     - Vandermonde_60x60
-    - UpperHessenbergToeplitz_12x12
+    - Littlewood_19
     - Random_5x5_3
     - Random_5x5_4
     - UpperHessenbergZeroDiag_12x12
-    - Cauchy_5x5
-    - Circulant_15x15
     - Eigenfish_3x3
     - Checkerboard_6x6_1
     - InvertedCheckerboard_4x4
@@ -44,7 +45,7 @@ galleryItems:
 <div class="page-content wc-container-L">
     <div class="post">
         <div id="gallery">
-            
+
             <ul>
                 {% for item in page.galleryItems %}
                 {% assign gallery = site.gallery | where:"image", item  | first %}
