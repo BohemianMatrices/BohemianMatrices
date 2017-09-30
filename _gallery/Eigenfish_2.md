@@ -1,6 +1,6 @@
 ---
-title: "Eigenfish 4x4"
-image: "Eigenfish_4x4"
+title: "Eigenfish 2"
+image: "Eigenfish_2"
 use_math: true
 description: "Eigenvalues of the matrix
 $$\\begin{bmatrix}
