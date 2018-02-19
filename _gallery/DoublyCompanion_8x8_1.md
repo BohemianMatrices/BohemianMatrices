@@ -2,7 +2,7 @@
 title: "Doubly Companion 8x8"
 image: "DoublyCompanion_8x8_1"
 use_math: true
-description: "A density plot in the complex plane of the Bohemian eigenvalues of a sample of 20 million 8x8 ($p=7$) doubly companion matrices
+description: "A density plot in the complex plane of the Bohemian eigenvalues of a sample of 20 million 8x8 \($p=7$\) doubly companion matrices
 $$\\begin{bmatrix}
 -\\alpha_1 & -\\alpha_2 & \\cdots & -\\alpha_p & -\\alpha_{p+1} - \\beta_{p+1}\\\\
 1 & 0 & \\cdots & 0 & -\\beta_p\\\\
