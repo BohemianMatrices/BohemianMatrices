@@ -1,6 +1,7 @@
 ---
 title: "Doubly Companion 20x20"
 image: "DoublyCompanion_20x20_1"
+use_math: true
 description: "A density plot in the complex plane of the Bohemian eigenvalues of a sample of 10 million 20x20 ($p=19$) doubly companion matrices
 $$\\begin{bmatrix}
 -\\alpha_1 & -\\alpha_2 & \\cdots & -\\alpha_p & -\\alpha_{p+1} - \\beta_{p+1}\\\\
