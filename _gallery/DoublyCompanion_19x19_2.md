@@ -1,8 +1,8 @@
 ---
-title: "Doubly Companion 20x20"
-image: "DoublyCompanion_20x20_2"
+title: "Doubly Companion 19x19"
+image: "DoublyCompanion_19x19_2"
 use_math: true
-description: "A close up of the fractal pattern for the Bohemian eigenvalues of a sample of 50 million 20x20 $(p=19)$ doubly companion matrices:
+description: "A close up of the fractal pattern for the Bohemian eigenvalues of a sample of 50 million 19x19 $(p=18)$ doubly companion matrices:
 $$\\begin{bmatrix}
 -\\alpha_1 & -\\alpha_2 & \\cdots & -\\alpha_p & -\\alpha_{p+1} - \\beta_{p+1}\\\\
 1 & 0 & \\cdots & 0 & -\\beta_p\\\\
