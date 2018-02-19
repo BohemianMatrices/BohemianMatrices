@@ -10,5 +10,5 @@ $$\\begin{bmatrix}
 \\vdots & \\vdots & \\ddots & \\vdots & \\vdots\\\\
 0 & 0 & \\cdots & 1 & -\\beta_1
 \\end{bmatrix}$$
-with $\\alpha_k \\in \\{-1, 1\\}$, and $\\beta_k \\in \\{-1, 1\\}$. Color represents the eigenvalue density and the plot is viewed on [0.95+1.10i, 1.05+1.20i]."
+with $\\alpha_k \\in \\{-1, 1\\}$, and $\\beta_k \\in \\{-1, 1\\}$. The plot is viewed on [0.95+1.10i, 1.05+1.20i]."
 ---
