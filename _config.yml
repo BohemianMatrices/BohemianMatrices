@@ -1,21 +1,21 @@
-# Harmony Jekyll theme general configurations 
+# Harmony Jekyll theme general configurations
 
 # Base URL
-baseurl: 
+baseurl:
 
 # Site live URL
 url: http://bohemianmatrices.com
 
-# Localhost 
-# url: http://127.0.0.1:4000  
+# Localhost
+# url: http://127.0.0.1:4000
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
   name: Bohemian Matrices
   # Little description about your site
-  description: 
+  description:
   # 'meta_description:' Write an awesome description for your new site here.
-  # It will appear in your document head meta (for Google search results) and 
+  # It will appear in your document head meta (for Google search results) and
   # in your feed.xml site description.
   meta_description: A website dedicated to Bohemian matrices.
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
@@ -28,27 +28,27 @@ harmony:
   google_analytics_key: UA-86308175-2
 
   # Profile links, leave blank to ignore
-  # social: 
+  # social:
     # github: steventhornton
     # twitter: gayanvirajith
     # facebook: gayanvirajith
     # gplus: +GayanVirajith
     # dribble: gayan
-    # pinterest: 
+    # pinterest:
   # Toggle disclaimer in footer
   show_disclaimer: false
 
-# Conversion / Build settings 
+# Conversion / Build settings
 markdown:    kramdown
 # markdown: maruku
 # This is how you put pygments config in jekyll 2.0 instead of pygments: true
 highlighter: rouge
-# highlighter: pygments 
+# highlighter: pygments
 
 # Permalinks
 permalink:        pretty
 
-exclude: 
+exclude:
   - CNAME
   - Gemfile
   - Rakefile
@@ -61,6 +61,11 @@ exclude:
 sass:
     sass_dir: assets/css/_sass
     style: :compressed
+
+breadcrumbs:
+  root:
+    hide: false  # show breadcrumbs on root/home page
+    image: false # Show image or title text
 
 # Gallery
 collections:

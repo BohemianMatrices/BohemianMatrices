@@ -28,9 +28,35 @@ html * {
   -moz-osx-font-smoothing: grayscale;
 }
 
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body {
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+}
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+}
+
+
+
 *, *:after, *:before {
   @include box-sizing(border-box);
 }
+
 
 body {
   font: {
@@ -78,9 +104,15 @@ body {
 
 --------------------------------- */
 
-h1, h2, h3, h4, h5, h6 { 
+h1, h2 { 
   font-family: $header-font;
-  line-height: 1.6;
+  line-height: 1.2;
+}
+
+h3, h4, h5, h6 {
+  font-family: $primary-font;
+  font-weight: bold;
+  line-height: 1;
 }
 
 h1 {
@@ -93,37 +125,44 @@ h1 {
 
 h2 {
   // mobile first
+  margin-top: 10pt;
   @include font-size(18px);
   @include MQ(M) {
     @include font-size(28px);
   }
 }
+h2:after {
+    content: ' ';
+    display: block;
+    border-top: 1pt solid #d0d0d0;
+    margin-bottom: 4px;
+}
 
 h3 {
-  @include font-size(15px);
+  @include font-size(14px);
   @include MQ(M) {
-    @include font-size(24px);
+    @include font-size(20px);
   }
 }
 
 h4 {
-  @include font-size(16px);
+  @include font-size(14px);
   @include MQ(M) {
-    @include font-size(24px);
+    @include font-size(18px);
   }
 }
 
 h5 {
   @include font-size(14px);
   @include MQ(M) {
-    @include font-size(22px);
+    @include font-size(16px);
   }
 }
 
 h6 {
   @include font-size(14px);
   @include MQ(M) {
-    @include font-size(19px);
+    @include font-size(14px);
   }
 }
 
@@ -250,6 +289,7 @@ header.main-header {
   }
 }
 
+
 footer.main-footer {
   background-color: $base-00;
   color: $base-07;
@@ -259,7 +299,7 @@ footer.main-footer {
 
     @include MQ(M) {
       &.one, &.two {
-        @include column(.5);
+        @include column(.6);
         display: block;
       }
     }
@@ -387,15 +427,24 @@ div.page-content {
 }    
 
 div.page-content {
+  ul {
+    list-style-type: none;
+  }
+  
+  ul > li:before {
+    content: '\2013'; /* en dash */
+    position: absolute;
+    margin-left: -0.9em; 
+  }
   ul {       
     padding: 0 0 1em 0;
     li {
       @include font-size(14px);
       color: $color-2; 
       line-height: 1.6;
-      background: url(./images/bullet.svg);
-      background-repeat: no-repeat;
-      background-position: 0 6px;
+      /*background: url(./images/bullet.svg);*/
+      /*background-repeat: no-repeat;*/
+      /*background-position: 0 6px;*/
       padding: 0 0 5px 15px;
       margin-left: 0;
     }
@@ -567,8 +616,9 @@ code, pre {
 code {  
   padding: .25em .5em;
   font-size: 85%;
-  color: $base-08;
-  background-color: rgba($base-08, .1);
+  /*color: $base-08;*/
+  background-color: #f4f4f4;
+  /*background-color: rgba($base-08, .1);*/;
 }
 pre {
   display: block;
@@ -598,6 +648,7 @@ pre {
 .highlight {
   margin-bottom: 1em;
   margin-top: 1em;
+  background-color: #f4f4f4;
   pre {
     margin-bottom: 0;
   }
@@ -798,6 +849,12 @@ div#gallery ul {
   list-style-position: inside;
   list-style-type: none;
   list-style-image: none;
+  width: 290px;
+  height: 290px;
+}
+
+#gallery ul > li:before {
+  content: ''
 }
 
 .photo {
@@ -822,4 +879,68 @@ figcaption {
   text-align: center;
   padding-top: 10px;
   margin: 0 auto;
+}
+
+/* -----------------------------------
+
+  Breadcrumbs
+
+----------------------------------- */
+nav.breadcrumbs.bootstrap {
+   /* from Twitter Bootstrap 4 */
+   /* If you already use Twitter, you do not need these css lines above, cause they already in Twitter Bootstrap */
+   /* Additions: image integration */
+}
+
+nav.breadcrumbs.bootstrap ol {
+   margin-left: 0
+}
+
+nav.breadcrumbs.bootstrap .breadcrumb {
+   font-size: 0.95rem;
+   padding: 0;
+   margin-bottom: 1rem;
+   list-style: none;
+   /*background-color: #f1f2ed;
+   border-radius: 0.25rem;*/
+}
+
+nav.breadcrumbs.bootstrap .breadcrumb::after {
+   content: "";
+   display: table;
+   clear: both;
+}
+
+nav.breadcrumbs.bootstrap .breadcrumb-item {
+   float: left;
+   margin-left: 0;
+}
+
+nav.breadcrumbs.bootstrap .breadcrumb-item+.breadcrumb-item::before {
+   display: inline-block;
+   padding-right: 0rem;
+   padding-left: 0.2em;
+   color: #818a91;
+   content: "/";
+}
+
+nav.breadcrumbs.bootstrap .breadcrumb-item+.breadcrumb-item:hover::before {
+   text-decoration: underline;
+}
+
+nav.breadcrumbs.bootstrap .breadcrumb-item+.breadcrumb-item:hover::before {
+   text-decoration: none;
+}
+
+nav.breadcrumbs.bootstrap .breadcrumb-item-active {
+   color: #818a91;
+}
+
+nav.breadcrumbs.bootstrap .breadcrumb .icon {
+   display: inline-block;
+}
+
+nav.breadcrumbs.bootstrap .breadcrumb .icon svg {
+   height: 0.8rem;
+   width: 0.8rem;
 }
