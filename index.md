@@ -13,7 +13,7 @@ A family of __Bohemian matrices__ is a distribution of random matrices where the
 __Bohemian eigenvalues__ are the eigenvalues of a family of Bohemian matrices.
 
 ## The Characteristic Polynomial Database (CPDB)
-The [__Characteristic Polynomial Database__](CPDB) contains the sets of characteristic polynomials of several families of Bohemian matrices. Many properties of these families are archived in the characteristic polynomial database. Currently the database stores __1,762,728,075__ characteristic polynomials from __2,366,960,967,336__ matrices.
+The [__Characteristic Polynomial Database__](cpdb) contains the sets of characteristic polynomials of several families of Bohemian matrices. Many properties of these families are archived in the characteristic polynomial database. Currently the database stores __1,762,728,075__ characteristic polynomials from __2,366,960,967,336__ matrices.
 
 ## Why "Bohemian"?
 When this project was in its early stages, our focus was on random integer matrices of bounded height. We originally used the phrase "bounded height integer matrix eigenvalues" to refer to our work. This led to the acronym BHIME which isn't to far off from "Bohemian".
