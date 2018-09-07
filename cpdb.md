@@ -204,3 +204,28 @@ While computing properties for the families of matrices available in the databas
 20. The number of distinct determinants an $n \times n$ upper-Hessenberg matrix
     with entries from the set $\\{-1, +1\\}$ and subdiagonal entries fixed at 1
     is given by sequence [A000051](http://oeis.org/A000051).
+
+## Referencing the CPDB
+If the database helped your work and you wish to reference it, the following citation format should be used:
+
+S. E. Thornton, _The Characteristic Polynomial Database_, published electronically at http://bohemianmatrices.com/cpdb, [date]
+
+### Bibtex
+```
+@online{CPDB,
+  author = {Steven E. Thornton},
+  title = {The Characteristic Polynomial Database},
+  url = {http://bohemianmatrices.com/cpdb},
+  urldate = {[date]}
+}
+```
+
+or
+
+```
+@misc{CPDB,
+  author = {Steven E. Thornton},
+  title = {The Characteristic Polynomial Database},
+  howpublished = {Available at \url{http://bohemianmatrices.com/cpdb} ([date])}
+}
+```
