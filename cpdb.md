@@ -132,10 +132,10 @@ Number of matrices such that there exists a positive integer $k$ where $A^k = 0$
 Number of matrices in the Bohemian family such that every square non-singular submatrix is unimodular.
 
 ### Number of Type I Stable Matrices
-Number of matrices in the Bohemian family where the real part of all eigenvalues is strictly negative ($\textrm{Re}(\lambda) < 0$). These are the matrices where the differential equation $\dot{y} = Ay$ converges.
+Number of matrices in the Bohemian family where the real part of all eigenvalues is strictly negative ($\textrm{Re}(\lambda) < 0$). These are the matrices $A$ where the differential equation $\dot{y} = Ay$ will ultimately decay as $t \to \infty$.
 
 ### Number of Type II Stable Matrices
-Number of matrices in the Bohemian family where all eigenvalues are strictly within the unit circle ($|\lambda| < 1$). These are the matrices where the recursion $y_{n+1} = A y_n$ converges.
+Number of matrices in the Bohemian family where all eigenvalues are strictly within the unit circle ($|\lambda| < 1$). These are the matrices where the recursion $y_{n+1} = A y_n$ will ultimately decay to 0 as $n \to \infty$.
 
 ## Conjectures
 
