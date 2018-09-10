@@ -65,7 +65,7 @@ Download all properties: <a href="http://cpdb.bohemianmatrices.com/UpperHessenbe
 | 4x4 | 431 | 135 | 296 | |
 | 5x5 | 9,497 | 2,877 | 6,620 | |
 | 6x6 | 363,143 | 103,987 | 259,156 | |
-| 7x7 | 23,795,195 | 6,648,959 | | |
+| 7x7 | 23,795,195 | 6,648,959 | 17,146,236 | |
 
 ### Rank
 
