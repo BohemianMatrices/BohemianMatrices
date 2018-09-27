@@ -60,11 +60,11 @@ Download all properties: <a href="http://cpdb.bohemianmatrices.com/Unstructured/
 | Matrix Size | Number of Distinct Eigenvalues | Number of Distinct Real Eigenvalues | Number of Distinct Purely Complex Eigenvalues | Number of Distinct Jordan Canonical Forms |
 | --- | --- | --- | --- | --- |
 | [__OEIS__](https://oeis.org/) | | | | |
-| 1x1 | 2 | 2 | 0 | |
-| 2x2 | 6 | 6 | 0 | |
-| 3x3 | 46 | 28 | 18 | |
-| 4x4 | 664 | 370 | 294 | |
-| 5x5 | 28,129 | 13,403 | 14,726 | |
+| 1x1 | 2 | 2 | 0 | 2 |
+| 2x2 | 6 | 6 | 0 | 8 |
+| 3x3 | 46 | 28 | 18 | 40 |
+| 4x4 | 664 | 370 | 294 | 384 |
+| 5x5 | 28,129 | 13,403 | 14,726 | 9,502 |
 | 6x6 | 3,522,087 | 1,535,679 | 1,986,408 | |
 
 ### Rank
@@ -102,4 +102,3 @@ Download all properties: <a href="http://cpdb.bohemianmatrices.com/Unstructured/
 | 4x4 | | | 543 | | | |
 | 5x5 | | | 29,281 | | | |
 | 6x6 | | | 3,781,503 | | | |
-
