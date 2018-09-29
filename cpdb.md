@@ -168,8 +168,8 @@ While computing properties for the families of matrices available in the databas
    matrix with entries from the set $\\{0, 1\\}$, subdiagonal entries fixed at
    1, and diagonal entries fixed at 0 is given by sequence
    [A212264](http://oeis.org/A212264).
-10. All upper-Hessenberg matrices with subdiagonal entries fixed at 1 are
-    non-derogatory.
+10. ~~All upper-Hessenberg matrices with subdiagonal entries fixed at 1 are
+    non-derogatory.~~ Chan, E., Corless, R. M., Gonzalez-Vega, L., Sendra, J. R., Sendra, J., & Thornton, S. (2018). Bohemian Upper Hessenberg Matrices. _arXiv preprint [arXiv:1809.10653](https://arxiv.org/abs/1809.10653)_, Proposition 5.3.
 11. The maximum characteristic height of an $n \times n$ upper-Hessenberg matrix
     with entries from the set $\\{0, +1, +2\\}$, subdiagonal entries fixed at 1,
     and diagonal entries fixed at 0 is given by sequence
