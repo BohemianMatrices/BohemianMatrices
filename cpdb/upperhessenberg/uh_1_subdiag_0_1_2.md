@@ -57,10 +57,10 @@ Download all properties: <a href="http://cpdb.bohemianmatrices.com/UpperHessenbe
 | Matrix Size | Number of Distinct Eigenvalues | Number of Distinct Real Eigenvalues | Number of Distinct Purely Complex Eigenvalues | Number of Distinct Jordan Canonical Forms |
 | --- | --- | --- | --- | --- |
 | [__OEIS__](https://oeis.org/) | | | | |
-| 2x2 | 17 | 17 | 0 | |
-| 3x3 | 310 | 210 | 100 | |
-| 4x4 | 10,157 | 6,331 | 3,826 | |
-| 5x5 | 639,021 | 373,367 | 265,654 | |
+| 2x2 | 17 | 17 | 0 | 16 |
+| 3x3 | 310 | 210 | 100 | 170 |
+| 4x4 | 10,157 | 6,331 | 3,826 | 3,584 |
+| 5x5 | 639,021 | 373,367 | 265,654 | 157,484 |
 | 6x6 | | | | |
 
 ### Rank
@@ -95,4 +95,3 @@ Download all properties: <a href="http://cpdb.bohemianmatrices.com/UpperHessenbe
 | 4x4 | | | 1 | | | |
 | 5x5 | | | 1 | | | |
 | 6x6 | | | 1 | | | |
-
