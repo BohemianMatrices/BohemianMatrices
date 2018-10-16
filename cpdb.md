@@ -158,9 +158,9 @@ While computing properties for the families of matrices available in the databas
 6. The number of nilpotent $n \times n$ matrices with entries from the
    set $\\{0, +1, +2\\}$ is given by the sequence
    [A188457](http://oeis.org/A188457).
-7. The maximum absolute determinant of an $n \times n$ upper-Hessenberg matrix
+7. ~~The maximum absolute determinant of an $n \times n$ upper-Hessenberg matrix
    with entries from the set $\\{0, +1\\}$ and subdiagonal entries fixed at 1 is
-   given by the Fibonacci sequence [A000045](http://oeis.org/A000045).
+   given by the Fibonacci sequence [A000045](http://oeis.org/A000045).~~ Ching, L. (1993). The maximum determinant of an $n \times n$ lower Hessenberg (0, 1) matrix. _Linear algebra and its applications, 183_, 147-153. Thanks to _Nick Higham for the reference._
 8. The maximum absolute determinant of an $n \times n$ upper-Hessenberg matrix
    with entries from the set $\\{0, +1, +2\\}$ and subdiagonal entries fixed at
    1 is given by sequence [A052542](http://oeis.org/A052542).
