@@ -87,7 +87,7 @@ Download all properties: <a href="http://cpdb.bohemianmatrices.com/UpperHessenbe
 
 | Matrix Size | Number of Distinct Determinants | Maximum Determinant | Number of Unimodular Matrices |
 | --- | --- | --- | --- |
-| [__OEIS__](https://oeis.org/) | | | |
+| [__OEIS__](https://oeis.org/) | | [__A000045__](https://oeis.org/A000045) | |
 | 2x2 | 2 | 1 | 4 |
 | 3x3 | 5 | 2 | 32 |
 | 4x4 | 7 | 3 | 508 |
