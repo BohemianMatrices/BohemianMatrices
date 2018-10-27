@@ -20,46 +20,30 @@ Upper Hessenberg matrices with subdiagonal entries fixed at 1.
 
 ## Data Files
 
-### Characteristic Polynomial Files
-All characteristic polynomial files are CSV files with no header. They have
-been provided in uncompressed format, as well as compressed as zip files and
-tar.gz files. The characteristic polynomial files follow the naming convention
-`CharPolys_nxn.csv` where `n` is the dimension of the matrices in the family
-they are computed from. Each row in the CSV files is of the form:
-
-`count, c_{n-1}, c_{n-2}, ..., c_0`
-
-where `count` is the number of times the characteristic polynomial appears in the family. `c_{n-1}` to `c_0` are the coefficients of the characteristic polynomial beginning with the degree n-1 coefficient down to the constant coefficient. The leading coefficient (`c_n`) is omitted from the files as this will always be equal to 1.
-
-A Maple function `read_poly_data` is available [here](https://github.com/BohemianMatrices/characteristic-polynomial-database/blob/master/src/Maple/read_poly_data.mpl) for reading the polynomials (and optionally their counts) into Maple. See the header in the file for details on its usage. Polynomials can be read into Maple as follows:
-
-```
-# Read polynomials into an array, counts are discarded.
-char_polys := read_poly_data("CharPolys_4x4.csv", x, isMonic=true):
-
-# Read polynomials and their counts into arrays.
-char_polys, char_poly_counts := read_poly_data("CharPolys_4x4.csv", x, isMonic=true, keepCount=true):
-```
-
-### Minimal Polynomial Files
-All minimal polynomial files are CSV files with no header. They have been
-provided in uncompressed format, as well as compressed as zip files and
-tar.gz files. The minimal polynomial files follow the naming convention
-`MinPolys_nxn.csv` where `n` is the dimension of the matrices in the family
-they are computed from. Each row in the CSV files is of the form:
+### Polynomial Files
+All characteristic polynomial and minimal polynomial files are CSV files with
+no header. They have been provided in uncompressed format, as well as
+compressed as zip files and tar.gz files. The characteristic polynomial files
+follow the naming convention `CharPolys_nxn.csv` where `n` is the dimension of
+the matrices in the family they are computed from. Similarly, the minimal
+polynomial files follow the naming convention `MinPolys_nxn.csv` where `n` is
+the dimension of the matrices in the family they are computed from. Each row in the CSV files is of the form:
 
 `count, c_{n}, c_{n-1}, ..., c_0`
 
-where `count` is the number of times the minimal polynomial appears in the family. `c_{n}` to `c_0` are the coefficients of the minimal polynomial beginning with the degree n coefficient down to the constant coefficient.
+where `count` is the number of times the characteristic polynomial appears in
+the family. `c_{n}` to `c_0` are the coefficients of the characteristic
+polynomial beginning with the degree n coefficient down to the constant
+coefficient.
 
 A Maple function `read_poly_data` is available [here](https://github.com/BohemianMatrices/characteristic-polynomial-database/blob/master/src/Maple/read_poly_data.mpl) for reading the polynomials (and optionally their counts) into Maple. See the header in the file for details on its usage. Polynomials can be read into Maple as follows:
 
 ```
 # Read polynomials into an array, counts are discarded.
-min_polys := read_poly_data("MinPolys_4x4.csv", x, isMonic=false):
+char_polys := read_poly_data("CharPolys_4x4.csv", x):
 
 # Read polynomials and their counts into arrays.
-min_polys, min_poly_counts := read_poly_data("MinPolys_4x4.csv", x, isMonic=false, keepCount=true):
+char_polys, char_poly_counts := read_poly_data("CharPolys_4x4.csv", x, keepCount=true):
 ```
 
 ## Property Definitions

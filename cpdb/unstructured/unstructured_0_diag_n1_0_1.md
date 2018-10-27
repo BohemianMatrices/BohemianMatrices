@@ -11,15 +11,15 @@ Matrices with entries from the set {-1, 0, +1} and diagonal entries fixed at 0.
 ## Characteristic Polynomials
 
 Download all characteristic polynomials:
-- <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys.zip">CharPolys.zip</a> (142KB)
-- <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys.tar.gz">CharPolys.tar.gz</a> (142KB)
+- <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys.zip">CharPolys.zip</a> (139KB)
+- <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys.tar.gz">CharPolys.tar.gz</a> (139KB)
 
 | Matrix Size | .csv | .zip | .tar.gz |
 | --- | --- | --- | --- |
-| 2x2 | <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_2x2.csv">CharPolys_2x2.csv</a> (25B)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_2x2.zip">CharPolys_2x2.zip</a> (204B)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_2x2.tar.gz">CharPolys_2x2.tar.gz</a> (389B) |
-| 3x3 | <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_3x3.csv">CharPolys_3x3.csv</a> (255B)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_3x3.zip">CharPolys_3x3.zip</a> (273B)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_3x3.tar.gz">CharPolys_3x3.tar.gz</a> (456B) |
-| 4x4 | <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_4x4.csv">CharPolys_4x4.csv</a> (6KB)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_4x4.zip">CharPolys_4x4.zip</a> (1KB)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_4x4.tar.gz">CharPolys_4x4.tar.gz</a> (2KB) |
-| 5x5 | <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_5x5.csv">CharPolys_5x5.csv</a> (843KB)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_5x5.zip">CharPolys_5x5.zip</a> (140KB)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_5x5.tar.gz">CharPolys_5x5.tar.gz</a> (140KB) |
+| 2x2 | <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_2x2.csv">CharPolys_2x2.csv</a> (43B)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_2x2.zip">CharPolys_2x2.zip</a> (216B)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_2x2.tar.gz">CharPolys_2x2.tar.gz</a> (164B) |
+| 3x3 | <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_3x3.csv">CharPolys_3x3.csv</a> (257B)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_3x3.zip">CharPolys_3x3.zip</a> (285B)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_3x3.tar.gz">CharPolys_3x3.tar.gz</a> (234B) |
+| 4x4 | <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_4x4.csv">CharPolys_4x4.csv</a> (6KB)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_4x4.zip">CharPolys_4x4.zip</a> (1KB)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_4x4.tar.gz">CharPolys_4x4.tar.gz</a> (1KB) |
+| 5x5 | <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_5x5.csv">CharPolys_5x5.csv</a> (731KB)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_5x5.zip">CharPolys_5x5.zip</a> (137KB)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys_5x5.tar.gz">CharPolys_5x5.tar.gz</a> (137KB) |
 
 ## Minimal Polynomials
 
@@ -29,9 +29,9 @@ Download all minimal polynomials:
 
 | Matrix Size | .csv | .zip | .tar.gz |
 | --- | --- | --- | --- |
-| 2x2 | <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/MinPolys_2x2.csv">MinPolys_2x2.csv</a> (45B)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/MinPolys_2x2.zip">MinPolys_2x2.zip</a> (210B)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/MinPolys_2x2.tar.gz">MinPolys_2x2.tar.gz</a> (397B) |
-| 3x3 | <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/MinPolys_3x3.csv">MinPolys_3x3.csv</a> (343B)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/MinPolys_3x3.zip">MinPolys_3x3.zip</a> (286B)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/MinPolys_3x3.tar.gz">MinPolys_3x3.tar.gz</a> (474B) |
-| 4x4 | <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/MinPolys_4x4.csv">MinPolys_4x4.csv</a> (8KB)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/MinPolys_4x4.zip">MinPolys_4x4.zip</a> (2KB)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/MinPolys_4x4.tar.gz">MinPolys_4x4.tar.gz</a> (2KB) |
+| 2x2 | <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/MinPolys_2x2.csv">MinPolys_2x2.csv</a> (55B)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/MinPolys_2x2.zip">MinPolys_2x2.zip</a> (222B)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/MinPolys_2x2.tar.gz">MinPolys_2x2.tar.gz</a> (169B) |
+| 3x3 | <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/MinPolys_3x3.csv">MinPolys_3x3.csv</a> (299B)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/MinPolys_3x3.zip">MinPolys_3x3.zip</a> (296B)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/MinPolys_3x3.tar.gz">MinPolys_3x3.tar.gz</a> (248B) |
+| 4x4 | <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/MinPolys_4x4.csv">MinPolys_4x4.csv</a> (6KB)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/MinPolys_4x4.zip">MinPolys_4x4.zip</a> (2KB)| <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/MinPolys_4x4.tar.gz">MinPolys_4x4.tar.gz</a> (2KB) |
 
 
 

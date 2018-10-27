@@ -11,29 +11,30 @@ Upper Hessenberg matrices with subdiagonal entries fixed at 1 and all other entr
 ## Characteristic Polynomials
 
 Download all characteristic polynomials:
-- <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys.zip">CharPolys.zip</a> (43MB)
-- <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys.tar.gz">CharPolys.tar.gz</a> (43MB)
+- <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys.zip">CharPolys.zip</a> (42MB)
+- <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys.tar.gz">CharPolys.tar.gz</a> (42MB)
 
 | Matrix Size | .csv | .zip | .tar.gz |
 | --- | --- | --- | --- |
-| 2x2 | <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_2x2.csv">CharPolys_2x2.csv</a> (138B)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_2x2.zip">CharPolys_2x2.zip</a> (242B)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_2x2.tar.gz">CharPolys_2x2.tar.gz</a> (429B) |
-| 3x3 | <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_3x3.csv">CharPolys_3x3.csv</a> (2KB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_3x3.zip">CharPolys_3x3.zip</a> (664B)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_3x3.tar.gz">CharPolys_3x3.tar.gz</a> (896B) |
-| 4x4 | <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_4x4.csv">CharPolys_4x4.csv</a> (52KB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_4x4.zip">CharPolys_4x4.zip</a> (11KB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_4x4.tar.gz">CharPolys_4x4.tar.gz</a> (11KB) |
-| 5x5 | <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_5x5.csv">CharPolys_5x5.csv</a> (3MB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_5x5.zip">CharPolys_5x5.zip</a> (481KB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_5x5.tar.gz">CharPolys_5x5.tar.gz</a> (481KB) |
-| 6x6 | <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_6x6.csv">CharPolys_6x6.csv</a> (257MB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_6x6.zip">CharPolys_6x6.zip</a> (43MB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_6x6.tar.gz">CharPolys_6x6.tar.gz</a> (43MB) |
+| 2x2 | <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_2x2.csv">CharPolys_2x2.csv</a> (156B)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_2x2.zip">CharPolys_2x2.zip</a> (256B)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_2x2.tar.gz">CharPolys_2x2.tar.gz</a> (205B) |
+| 3x3 | <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_3x3.csv">CharPolys_3x3.csv</a> (2KB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_3x3.zip">CharPolys_3x3.zip</a> (679B)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_3x3.tar.gz">CharPolys_3x3.tar.gz</a> (652B) |
+| 4x4 | <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_4x4.csv">CharPolys_4x4.csv</a> (46KB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_4x4.zip">CharPolys_4x4.zip</a> (10KB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_4x4.tar.gz">CharPolys_4x4.tar.gz</a> (10KB) |
+| 5x5 | <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_5x5.csv">CharPolys_5x5.csv</a> (2MB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_5x5.zip">CharPolys_5x5.zip</a> (473KB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_5x5.tar.gz">CharPolys_5x5.tar.gz</a> (473KB) |
+| 6x6 | <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_6x6.csv">CharPolys_6x6.csv</a> (215MB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_6x6.zip">CharPolys_6x6.zip</a> (41MB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/CharPolys_6x6.tar.gz">CharPolys_6x6.tar.gz</a> (41MB) |
 
 ## Minimal Polynomials
 
 Download all minimal polynomials:
-- <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys.zip">MinPolys.zip</a> (769KB)
-- <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys.tar.gz">MinPolys.tar.gz</a> (769KB)
+- <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys.zip">MinPolys.zip</a> (42MB)
+- <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys.tar.gz">MinPolys.tar.gz</a> (42MB)
 
 | Matrix Size | .csv | .zip | .tar.gz |
 | --- | --- | --- | --- |
-| 2x2 | <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_2x2.csv">MinPolys_2x2.csv</a> (186B)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_2x2.zip">MinPolys_2x2.zip</a> (243B)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_2x2.tar.gz">MinPolys_2x2.tar.gz</a> (206B) |
-| 3x3 | <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_3x3.csv">MinPolys_3x3.csv</a> (2KB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_3x3.zip">MinPolys_3x3.zip</a> (746B)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_3x3.tar.gz">MinPolys_3x3.tar.gz</a> (736B) |
-| 4x4 | <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_4x4.csv">MinPolys_4x4.csv</a> (62KB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_4x4.zip">MinPolys_4x4.zip</a> (14KB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_4x4.tar.gz">MinPolys_4x4.tar.gz</a> (14KB) |
-| 5x5 | <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_5x5.csv">MinPolys_5x5.csv</a> (3MB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_5x5.zip">MinPolys_5x5.zip</a> (755KB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_5x5.tar.gz">MinPolys_5x5.tar.gz</a> (755KB) |
+| 2x2 | <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_2x2.csv">MinPolys_2x2.csv</a> (156B)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_2x2.zip">MinPolys_2x2.zip</a> (254B)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_2x2.tar.gz">MinPolys_2x2.tar.gz</a> (203B) |
+| 3x3 | <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_3x3.csv">MinPolys_3x3.csv</a> (2KB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_3x3.zip">MinPolys_3x3.zip</a> (677B)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_3x3.tar.gz">MinPolys_3x3.tar.gz</a> (650B) |
+| 4x4 | <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_4x4.csv">MinPolys_4x4.csv</a> (46KB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_4x4.zip">MinPolys_4x4.zip</a> (10KB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_4x4.tar.gz">MinPolys_4x4.tar.gz</a> (10KB) |
+| 5x5 | <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_5x5.csv">MinPolys_5x5.csv</a> (2MB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_5x5.zip">MinPolys_5x5.zip</a> (473KB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_5x5.tar.gz">MinPolys_5x5.tar.gz</a> (473KB) |
+| 6x6 | <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_6x6.csv">MinPolys_6x6.csv</a> (215MB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_6x6.zip">MinPolys_6x6.zip</a> (41MB)| <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_n1_0_1/Data/MinPolys_6x6.tar.gz">MinPolys_6x6.tar.gz</a> (41MB) |
 
 
 
@@ -95,3 +96,4 @@ Download all properties: <a href="http://cpdb.bohemianmatrices.com/UpperHessenbe
 | 4x4 | | | 163 | | | |
 | 5x5 | | | 4,389 | | | |
 | 6x6 | | | 272,867 | | | |
+
