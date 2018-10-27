@@ -8,7 +8,7 @@ use_math: true
 {% include nav-breadcrumbs.html %}
 
 The __characteristic polynomial database__ contains characteristic polynomials,
-minimal polynomials and properties for a variety of families of Bohemian matrices. Currently the database contains __1,762,728,075__ characteristic polynomials from __2,366,960,967,336__ matrices.
+minimal polynomials and properties for a variety of families of Bohemian matrices. Currently the database contains __1,762,728,065__ characteristic polynomials from __2,366,960,967,336__ matrices.
 
 ## Bohemian Families
 
