@@ -125,72 +125,105 @@ Number of matrices in the Bohemian family where all eigenvalues are strictly wit
 
 While computing properties for the families of matrices available in the database, we came across many cases where a property appears to match a sequence on the [OEIS](http://oeis.org/) but we were unable to find a proof. Below we list sequences that appear to match, for which we have no proof of their validity. If you prove any of the conjectures below, or know of a reference with their proof, please send an email to <a href="http://steventhornton.ca" target="_blank">Steven Thornton</a> at <a href="mailto:sthornt7@uwo.ca">sthornt7@uwo.ca</a>, or <a href="http://www.apmaths.uwo.ca/~rcorless/" target="_blank">Rob Corless</a> at <a href="mailto:rcorless@uwo.ca">rcorless@uwo.ca</a> with details. Full credit will be given.
 
-1. The number of nilpotent $n \times n$ matrices with entries from the
-   set $\\{0, +1\\}$ is given by the sequence
-   [A003024](http://oeis.org/A003024).
-2. The maximal characteristic height of $n \times n$ matrices with entries from
-   the set $\\{0, +1\\}$ is given by the sequence [A082914](http://oeis.org/A082914).
-3. The number of nilpotent $n \times n$ matrices with entries from the
-   set $\\{0, +1\\}$ and diagonal entries fixed at 0 is given by the
-   sequence [A003024](http://oeis.org/A003024).
-4. The maximal absolute determinant of $n \times n$ matrices with entries from
-   the set $\\{-1, 0, +1\\}$ is given by the sequence
+#### Conjecture 1
+- __Conjecture:__ The number of nilpotent $n \times n$ matrices with entries from the set $\\{0, +1\\}$ is given by the sequence [A003024](http://oeis.org/A003024).
+- __Status:__ True
+- __Reference:__ Cvetković, D., Doob, M., & Sachs, H. (1980). Spectra of Graphs-Theory and Application. Third ed., Barth, Heidelber, 1995.
+- __Proof:__ [p. 81] show that a digraph G contains no cycle if and only if all eigenvalues of the adjacency matrix are 0, which is the explicit bijection between nilpotent $n×n$ matrices and DAGs.
+- __Proof Provided By:__ Jianxiang Chen
+
+#### Conjecture 2
+- __Conjecture:__ The maximal characteristic height of $n \times n$ matrices with entries from the set $\\{0, +1\\}$ is given by the sequence [A082914](http://oeis.org/A082914).
+- __Status:__ False
+- __Proof:__  According to the conjecture, the largest characteristic height of a $20 \times 20$ $\\{0,1\\}$ matrix should be 9754214400. But observe that the $j$-th coefficient of the characteristic polynomial is an alternate sum of all the determinants of the $(n − j) \times (n − j)$ diagonal minors, and the determinant of a $\\{0,1\\}$ matrix is bounded by A003432, the coefficient is bounded by $C(n,j)$A003432$(n-j)$. The values of $C(n,j)$A003432$(n-j)$ for a $20\times20$ matrix are: 390625000, 648273920, 1270087680, 1587609600, 2032140288, 988961400, 734657040, 459160650, 244885680, 59121920, 24186240, 7054320, 2480640, 348840, 77520, 14535, 2280, 190, 20, which are all smaller than 9754214400.
+Therefore, the conjecture is false.
+- __Proof Provided By:__ Jianxiang Chen
+
+#### Conjecture 3
+- __Conjecture:__ The number of nilpotent $n \times n$ matrices with entries from the set $\\{0, +1\\}$ and diagonal entries fixed at 0 is given by the sequence [A003024](http://oeis.org/A003024).
+- __Status:__ True
+- __Reference:__ Cvetković, D., Doob, M., & Sachs, H. (1980). Spectra of Graphs-Theory and Application. Third ed., Barth, Heidelber, 1995.
+- __Proof:__ [p. 81] show that a digraph G contains no cycle if and only if all eigenvalues of the adjacency matrix are 0, which is the explicit bijection between nilpotent $n×n$ matrices and DAGs.
+- __Proof Provided By:__ Jianxiang Chen
+
+#### Conjecture 4
+- __Conjecture:__ The maximal absolute determinant of $n \times n$ matrices with entries from the set $\\{-1, 0, +1\\}$ is given by the sequence
    [A003433](http://oeis.org/A003433).
-5. The number of nilpotent $n \times n$ matrices with entries from the
-   set $\\{-1, 0, +1\\}$ and diagonal entries fixed at 0 is given by the
-   sequence [A085506](http://oeis.org/A085506).
-6. The number of nilpotent $n \times n$ matrices with entries from the
-   set $\\{0, +1, +2\\}$ is given by the sequence
-   [A188457](http://oeis.org/A188457).
-7. ~~The maximum absolute determinant of an $n \times n$ upper-Hessenberg matrix
-   with entries from the set $\\{0, +1\\}$ and subdiagonal entries fixed at 1 is
-   given by the Fibonacci sequence [A000045](http://oeis.org/A000045).~~ Ching, L. (1993). The maximum determinant of an $n \times n$ lower Hessenberg (0, 1) matrix. _Linear algebra and its applications, 183_, 147-153. Thanks to _Nick Higham for the reference._
-8. The maximum absolute determinant of an $n \times n$ upper-Hessenberg matrix
-   with entries from the set $\\{0, +1, +2\\}$ and subdiagonal entries fixed at
-   1 is given by sequence [A052542](http://oeis.org/A052542).
-9. The number of distinct determinants of an $n \times n$ upper-Hessenberg
-   matrix with entries from the set $\\{0, 1\\}$, subdiagonal entries fixed at
-   1, and diagonal entries fixed at 0 is given by sequence
-   [A212264](http://oeis.org/A212264).
-10. ~~All upper-Hessenberg matrices with subdiagonal entries fixed at 1 are
-    non-derogatory.~~ Chan, E., Corless, R. M., Gonzalez-Vega, L., Sendra, J. R., Sendra, J., & Thornton, S. (2018). Bohemian Upper Hessenberg Matrices. _arXiv preprint [arXiv:1809.10653](https://arxiv.org/abs/1809.10653)_, Proposition 5.3.
-11. The maximum characteristic height of an $n \times n$ upper-Hessenberg matrix
-    with entries from the set $\\{0, +1, +2\\}$, subdiagonal entries fixed at 1,
-    and diagonal entries fixed at 0 is given by sequence
-    [A058764](http://oeis.org/A058764).
-12. The number of distinct determinants of an $n \times n$ upper-Hessenberg
-    matrix with entries from the set $\\{-1, 0\\}$, subdiagonal entries fixed
-    at 1, and diagonal entries fixed at 0 is given by sequence
-    [A001611](http://oeis.org/A001611).
-13. The maximum absolute determinant of an $n \times n$ upper-Hessenberg matrix
-    with entries from the set $\\{-1, 0\\}$, subdiagonal entries fixed at 1,
-    and diagonal entries fixed at 0 is given by the Fibonacci sequence
-    [A000045](http://oeis.org/A000045).
-14. The number of distinct determinants of an $n \times n$ upper-Hessenberg
-    matrix with entries from the set $\\{-1, 0, +1\\}$, subdiagonal entries
-    fixed at 1, and diagonal entries fixed at 0 is given by sequence
-    [A001588](http://oeis.org/A001588).
-15. The maximum absolute determinant of an $n \times n$ upper-Hessenberg matrix
-    with entries from the set $\\{-1, 0, +1\\}$, subdiagonal entries fixed at 1,
-    and diagonal entries fixed at 0 is given by the Fibonacci sequence
-    [A000045](http://oeis.org/A000045).
-16. The number of distinct determinants of an $n \times n$ upper-Hessenberg
-    matrix with entries from the set $\\{-1, +1\\}$, subdiagonal entries fixed
-    at 1, and diagonal entries fixed at 0 is given by sequence
-    [A001611](http://oeis.org/A001611).
-17. The maximum absolute determinant of an $n \times n$ upper-Hessenberg matrix
-    with entries from the set $\\{-1, +1\\}$, subdiagonal entries fixed at 1,
-    and diagonal entries fixed at 0 is given by the Fibonacci sequence
-    [A000045](http://oeis.org/A000045).
-18. The number of distinct determinants of an $n \times n$ upper-Hessenberg
-    matrix with entries from the set $\\{-1, 0\\}$ and subdiagonal entries
-    fixed at 1 is given by sequence [A000051](http://oeis.org/A000051).
-19. The number of distinct determinants of an $n \times n$ upper-Hessenberg
-    matrix with entries from the set $\\{-1, 0, +1\\}$ and subdiagonal entries
-    fixed at 1 is given by sequence [A000051](http://oeis.org/A000051).
-20. The number of distinct determinants of an $n \times n$ upper-Hessenberg 
-    matrix with entries from the set $\\{-1, +1\\}$ and subdiagonal entries
-    fixed at 1 is given by sequence [A000051](http://oeis.org/A000051).
+- __Status:__ True
+- __Proof:__ __Lemma.__ For square matrices $A$, $B$, $C$ with $2A_{m,n}=B_{m,n}+C_{m,n}$ and all other elements equal, their determinants satisfy $2\|A\|=\|B\|+\|C\|$. __Proof.__ By Laplace expansion on the $m$th row or $n$th column. So for every $\\{-1,0,1\\}$ matrix with some element $A_{m,n}=0$, we can construct two matrices $B$ and $C$ with $B_{m,n}=1$ and $C_{m,n}=-1$ with all other elements equal. Then at least one of $\|B\|$ and $\|C\|$ is not smaller than $\|A\|$. By repeating the procedure we can eliminate all zeros of $A$, arriving at a $\\{-1,1\\}$ matrix with maximum determinant, which is the definition of [A003433](http://oeis.org/A003433).
+- __Proof Provided By:__ Jianxiang Chen
+
+#### Conjecture 5
+- __Conjecture:__ The number of nilpotent $n \times n$ matrices with entries from the set $\\{-1, 0, +1\\}$ and diagonal entries fixed at 0 is given by the sequence [A085506](http://oeis.org/A085506).
+- __Status:__ True
+- __Reference:__ McKay, B. D., Oggier, F. E., Royle, G. F., Sloane, N. J. A., Wanless, I. M., & Wilf, H. S. (2004). Acyclic digraphs and eigenvalues of (0, 1)-matrices. _Journal of Integer Sequences_, 7(2), 3.
+- __Proof:__ Follows from proof on [p. 2].
+- __Proof Provided By:__ Jianxiang Chen
+
+#### Conjecture 6
+- __Conjecture:__ The number of nilpotent $n \times n$ matrices with entries from the set $\\{0, +1, +2\\}$ is given by the sequence [A188457](http://oeis.org/A188457).
+- __Status:__ Open
+
+#### Conjecture 7
+- __Conjecture:__ The maximum absolute determinant of an $n \times n$ upper-Hessenberg matrix with entries from the set $\\{0, +1\\}$ and subdiagonal entries fixed at 1 is given by the Fibonacci sequence [A000045](http://oeis.org/A000045).
+- __Status:__ True
+- __Reference:__ Ching, L. (1993). The maximum determinant of an $n \times n$ lower Hessenberg (0, 1) matrix. _Linear algebra and its applications, 183_, 147-153.
+- __Proof Provided By:__ [Nick Higham](https://nickhigham.wordpress.com/)
+
+#### Conjecture 8
+- __Conjecture:__ The maximum absolute determinant of an $n \times n$ upper-Hessenberg matrix with entries from the set $\\{0, +1, +2\\}$ and subdiagonal entries fixed at 1 is given by sequence [A052542](http://oeis.org/A052542).
+- __Status:__ Open
+
+#### Conjecture 9
+- __Conjecture:__ The number of distinct determinants of an $n \times n$ upper-Hessenberg matrix with entries from the set $\\{0, 1\\}$, subdiagonal entries fixed at 1, and diagonal entries fixed at 0 is given by sequence [A212264](http://oeis.org/A212264).
+- __Status:__ Open
+
+#### Conjecture 10
+- __Conjecture:__ All upper-Hessenberg matrices with subdiagonal entries fixed at 1 are non-derogatory.
+- __Status:__ True
+- __Reference:__ Chan, E., Corless, R. M., Gonzalez-Vega, L., Sendra, J. R., Sendra, J., & Thornton, S. (2018). Bohemian Upper Hessenberg Matrices. _arXiv preprint [arXiv:1809.10653](https://arxiv.org/abs/1809.10653)_,
+- __Proof:__ Proposition 5.3.
+- __Proof Provided By:__ Steven E. Thornton
+
+#### Conjecture 11
+- __Conjecture:__ The maximum characteristic height of an $n \times n$ upper-Hessenberg matrix with entries from the set $\\{0, +1, +2\\}$, subdiagonal entries fixed at 1, and diagonal entries fixed at 0 is given by sequence [A058764](http://oeis.org/A058764).
+- __Status:__ Open
+
+#### Conjecture 12
+- __Conjecture:__ The number of distinct determinants of an $n \times n$ upper-Hessenberg matrix with entries from the set $\\{-1, 0\\}$, subdiagonal entries fixed at 1, and diagonal entries fixed at 0 is given by sequence [A001611](http://oeis.org/A001611).
+- __Status:__ Open
+
+#### Conjecture 13
+- __Conjecture:__ The maximum absolute determinant of an $n \times n$ upper-Hessenberg matrix with entries from the set $\\{-1, 0\\}$, subdiagonal entries fixed at 1, and diagonal entries fixed at 0 is given by the Fibonacci sequence [A000045](http://oeis.org/A000045).
+- __Status:__ Open
+
+#### Conjecture 14
+- __Conjecture:__ The number of distinct determinants of an $n \times n$ upper-Hessenberg matrix with entries from the set $\\{-1, 0, +1\\}$, subdiagonal entries fixed at 1, and diagonal entries fixed at 0 is given by sequence [A001588](http://oeis.org/A001588).
+- __Status:__ Open
+
+#### Conjecture 15
+- __Conjecture:__ The maximum absolute determinant of an $n \times n$ upper-Hessenberg matrix with entries from the set $\\{-1, 0, +1\\}$, subdiagonal entries fixed at 1, and diagonal entries fixed at 0 is given by the Fibonacci sequence [A000045](http://oeis.org/A000045).
+- __Status:__ Open
+
+#### Conjecture 16
+- __Conjecture:__ The number of distinct determinants of an $n \times n$ upper-Hessenberg matrix with entries from the set $\\{-1, +1\\}$, subdiagonal entries fixed at 1, and diagonal entries fixed at 0 is given by sequence [A001611](http://oeis.org/A001611).
+- __Status:__ Open
+
+#### Conjecture 17
+- __Conjecture:__ The maximum absolute determinant of an $n \times n$ upper-Hessenberg matrix with entries from the set $\\{-1, +1\\}$, subdiagonal entries fixed at 1, and diagonal entries fixed at 0 is given by the Fibonacci sequence [A000045](http://oeis.org/A000045).
+- __Status:__ Open
+
+#### Conjecture 18
+- __Conjecture:__ The number of distinct determinants of an $n \times n$ upper-Hessenberg matrix with entries from the set $\\{-1, 0\\}$ and subdiagonal entries fixed at 1 is given by sequence [A000051](http://oeis.org/A000051).
+- __Status:__ Open
+
+#### Conjecture 19
+- __Conjecture:__ The number of distinct determinants of an $n \times n$ upper-Hessenberg matrix with entries from the set $\\{-1, 0, +1\\}$ and subdiagonal entries fixed at 1 is given by sequence [A000051](http://oeis.org/A000051).
+- __Status:__ Open
+
+#### Conjecture 20
+- __Conjecture:__ The number of distinct determinants of an $n \times n$ upper-Hessenberg matrix with entries from the set $\\{-1, +1\\}$ and subdiagonal entries fixed at 1 is given by sequence [A000051](http://oeis.org/A000051).
+- __Status:__ Open
 
 ## Referencing the CPDB
 If the database helped your work and you wish to reference it, the following citation format should be used:
