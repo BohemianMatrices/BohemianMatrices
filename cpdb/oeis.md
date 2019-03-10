@@ -22,3 +22,8 @@ List of all OEIS sequences that have been submitted.
 | [A306782](https://oeis.org/A306782) | Number of distinct minimal polynomials of n X n matrices with elements {-1, 1}. |
 | [A306783](https://oeis.org/A306783) | Number of distinct minimal polynomials of n X n matrices with elements {0, 1, 2}. |
 | [A306784](https://oeis.org/A306784) | Number of distinct eigenvalues of n X n matrices with elements {0, 1}. |
+| [A306791](https://oeis.org/A306791) | Number of distinct eigenvalues of n X n matrices with elements {-1, 1}. |
+| [A306792](https://oeis.org/A306792) | Number of distinct eigenvalues of n X n matrices with elements {0, 1, 2}. |
+| [A306793](https://oeis.org/A306793) | Number of distinct real eigenvalues of n X n matrices with elements {0, 1}. |
+| [A306794](https://oeis.org/A306794) | Number of distinct real eigenvalues of n X n matrices with elements {-1, 1}. |
+| [A306795](https://oeis.org/A306795) | Number of distinct real eigenvalues of n X n matrices with elements {0, 1, 2}. |
