@@ -47,7 +47,7 @@ Download all properties: <a href="http://cpdb.bohemianmatrices.com/Unstructured/
 
 | Matrix Size | Number of Matrices | Number of Characteristic Polynomials | Number of Minimal Polynomials | Number of Non-Derogatory Matrices | Maximum Characteristic Height |
 | --- | --- | --- | --- | --- | --- |
-| [__OEIS__](https://oeis.org/) | [__A002416__](https://oeis.org/A002416) | [__A272661__](https://oeis.org/A272661) | | | |
+| [__OEIS__](https://oeis.org/) | [__A002416__](https://oeis.org/A002416) | [__A272661__](https://oeis.org/A272661) | [__A306781__](https://oeis.org/A306781) | | |
 | 1x1 | 2 | 2 | 2 | 2 | 1 |
 | 2x2 | 16 | 6 | 8 | 14 | 2 |
 | 3x3 | 512 | 32 | 39 | 424 | 3 |
@@ -59,7 +59,7 @@ Download all properties: <a href="http://cpdb.bohemianmatrices.com/Unstructured/
 
 | Matrix Size | Number of Distinct Eigenvalues | Number of Distinct Real Eigenvalues | Number of Distinct Purely Complex Eigenvalues | Number of Distinct Jordan Canonical Forms |
 | --- | --- | --- | --- | --- |
-| [__OEIS__](https://oeis.org/) | | | | |
+| [__OEIS__](https://oeis.org/) | [__A306784__](https://oeis.org/A306784) | | | |
 | 1x1 | 2 | 2 | 0 | 2 |
 | 2x2 | 6 | 6 | 0 | 8 |
 | 3x3 | 46 | 28 | 18 | 40 |
@@ -102,4 +102,3 @@ Download all properties: <a href="http://cpdb.bohemianmatrices.com/Unstructured/
 | 4x4 | | | 543 | | | |
 | 5x5 | | | 29,281 | | | |
 | 6x6 | | | 3,781,503 | | | |
-

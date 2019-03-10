@@ -47,7 +47,7 @@ Download all properties: <a href="http://cpdb.bohemianmatrices.com/Unstructured/
 
 | Matrix Size | Number of Matrices | Number of Characteristic Polynomials | Number of Minimal Polynomials | Number of Non-Derogatory Matrices | Maximum Characteristic Height |
 | --- | --- | --- | --- | --- | --- |
-| [__OEIS__](https://oeis.org/) | [__A002416__](https://oeis.org/A002416) | [__A272662__](https://oeis.org/A272662) | | | |
+| [__OEIS__](https://oeis.org/) | [__A002416__](https://oeis.org/A002416) | [__A272662__](https://oeis.org/A272662) | [__A306782__](https://oeis.org/A306782) | | |
 | 1x1 | 2 | 2 | 2 | 2 | 1 |
 | 2x2 | 16 | 6 | 6 | 16 | 2 |
 | 3x3 | 512 | 28 | 30 | 472 | 6 |
@@ -102,4 +102,3 @@ Download all properties: <a href="http://cpdb.bohemianmatrices.com/Unstructured/
 | 4x4 | | | 2,064 | | | |
 | 5x5 | | | 0 | | | |
 | 6x6 | | | 100,172,800 | | | |
-
