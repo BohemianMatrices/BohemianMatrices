@@ -27,3 +27,9 @@ List of all OEIS sequences that have been submitted.
 | [A306793](https://oeis.org/A306793) | Number of distinct real eigenvalues of n X n matrices with elements {0, 1}. |
 | [A306794](https://oeis.org/A306794) | Number of distinct real eigenvalues of n X n matrices with elements {-1, 1}. |
 | [A306795](https://oeis.org/A306795) | Number of distinct real eigenvalues of n X n matrices with elements {0, 1, 2}. |
+| [A306815](https://oeis.org/A306815) | Number of non-derogatory n X n matrices with elements {0, 1}. |
+| [A306816](https://oeis.org/A306816) | Number of non-derogatory n X n matrices with elements {-1, 1}. |
+| [A306817](https://oeis.org/A306817) | Number of non-derogatory n X n matrices with elements {-1, 0, 1}. |
+| [A306818](https://oeis.org/A306818) | Number of non-derogatory n X n matrices with elements {0, 1, 2}. |
+| [A306819](https://oeis.org/A306819) | Number of nilpotent n X n matrices with elements {-1, 1}. |
+| [A306820](https://oeis.org/A306820) | Number of nilpotent n X n matrices with elements {-1, 0, 1}. |

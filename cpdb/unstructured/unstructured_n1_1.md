@@ -47,7 +47,7 @@ Download all properties: <a href="http://cpdb.bohemianmatrices.com/Unstructured/
 
 | Matrix Size | Number of Matrices | Number of Characteristic Polynomials | Number of Minimal Polynomials | Number of Non-Derogatory Matrices | Maximum Characteristic Height |
 | --- | --- | --- | --- | --- | --- |
-| [__OEIS__](https://oeis.org/) | [__A002416__](https://oeis.org/A002416) | [__A272662__](https://oeis.org/A272662) | [__A306782__](https://oeis.org/A306782) | | |
+| [__OEIS__](https://oeis.org/) | [__A002416__](https://oeis.org/A002416) | [__A272662__](https://oeis.org/A272662) | [__A306782__](https://oeis.org/A306782) | [__A306816__](https://oeis.org/A306816) | |
 | 1x1 | 2 | 2 | 2 | 2 | 1 |
 | 2x2 | 16 | 6 | 6 | 16 | 2 |
 | 3x3 | 512 | 28 | 30 | 472 | 6 |
@@ -95,7 +95,7 @@ Download all properties: <a href="http://cpdb.bohemianmatrices.com/Unstructured/
 
 | Matrix Size | Number of Normal Matrices | Number of Rhapsodic Matrices | Number of Nilpotent Matrices | Number of Totally Unimodular Matrices | Number of Type I Stable Matrices | Number of Type II Stable Matrices |
 | --- | --- | --- | --- | --- | --- | --- |
-| [__OEIS__](https://oeis.org/) | | | | | | |
+| [__OEIS__](https://oeis.org/) | | | [__A306819__](https://oeis.org/A306819) | | | |
 | 1x1 | | | 0 | | | |
 | 2x2 | | | 4 | | | |
 | 3x3 | | | 0 | | | |
