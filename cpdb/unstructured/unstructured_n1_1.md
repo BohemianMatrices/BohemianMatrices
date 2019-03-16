@@ -83,7 +83,7 @@ Download all properties: <a href="http://cpdb.bohemianmatrices.com/Unstructured/
 
 | Matrix Size | Number of Distinct Determinants | Maximum Determinant | Number of Unimodular Matrices |
 | --- | --- | --- | --- |
-| [__OEIS__](https://oeis.org/) | | | |
+| [__OEIS__](https://oeis.org/) | | [__A003433__](https://oeis.org/A003433) | |
 | 1x1 | 2 | 1 | 2 |
 | 2x2 | 3 | 2 | 0 |
 | 3x3 | 3 | 4 | 0 |

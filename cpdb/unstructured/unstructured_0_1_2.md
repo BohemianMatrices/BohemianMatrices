@@ -67,7 +67,7 @@ Download all properties: <a href="http://cpdb.bohemianmatrices.com/Unstructured/
 
 | Matrix Size | Number of Singular Matrices | Number of Non-Singular Matrices | Number of Rank 1 Matrices | Number of Rank 2 Matrices | Number of Rank 3 Matrices | Number of Rank 4 Matrices | Number of Rank 5 Matrices |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [__OEIS__](https://oeis.org/) | | [__A197487__](https://oeis.org/A197487) | | | | | |
+| [__OEIS__](https://oeis.org/) | [__A306840__](https://oeis.org/A306840) | [__A197487__](https://oeis.org/A197487) | | | | | |
 | 1x1 | 1 | 2 | 2 | | | | |
 | 2x2 | 31 | 50 | 50 | 30 | | | |
 | 3x3 | 6,891 | 12,792 | 266 | 6,624 | 12,792 | | |

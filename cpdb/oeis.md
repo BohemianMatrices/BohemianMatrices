@@ -33,3 +33,7 @@ List of all OEIS sequences that have been submitted.
 | [A306818](https://oeis.org/A306818) | Number of non-derogatory n X n matrices with elements {0, 1, 2}. |
 | [A306819](https://oeis.org/A306819) | Number of nilpotent n X n matrices with elements {-1, 1}. |
 | [A306820](https://oeis.org/A306820) | Number of nilpotent n X n matrices with elements {-1, 0, 1}. |
+| [A306837](https://oeis.org/A306837) | Number of unimodular n X n matrices with elements {0, 1}. |
+| [A306838](https://oeis.org/A306838) | Number of different values taken by the determinant of a real (-1,0,1) matrix. |
+| [A306839](https://oeis.org/A306839) | Number of unimodular n X n matrices with elements {-1, 0, 1}. |
+| [A306840](https://oeis.org/A306839) | Number of singular n X n matrices with elements {0, 1, 2}. |
