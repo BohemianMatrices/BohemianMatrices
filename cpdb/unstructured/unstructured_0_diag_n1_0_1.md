@@ -10,6 +10,8 @@ Matrices with entries from the set {-1, 0, +1} and diagonal entries fixed at 0.
 
 ## Characteristic Polynomials
 
+__Data files have been temporarily removed due to unexpected costs, if you would like access to the characteristic polynomial data files please contact me at <a href="mailto:sthornt7@uwo.ca">sthornt7@uwo.ca</a>.__
+
 Download all characteristic polynomials:
 - <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys.zip">CharPolys.zip</a> (139KB)
 - <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_Diag_n1_0_1/Data/CharPolys.tar.gz">CharPolys.tar.gz</a> (139KB)
@@ -88,4 +90,3 @@ Download all properties: <a href="http://cpdb.bohemianmatrices.com/Unstructured/
 | 3x3 | | | 133 | | | |
 | 4x4 | | | 18,905 | | | |
 | 5x5 | | | 13,998,201 | | | |
-

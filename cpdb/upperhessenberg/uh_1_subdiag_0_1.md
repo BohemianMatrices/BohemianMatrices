@@ -10,6 +10,8 @@ Upper Hessenberg matrices with subdiagonal entries fixed at 1 and all other entr
 
 ## Characteristic Polynomials
 
+__Data files have been temporarily removed due to unexpected costs, if you would like access to the characteristic polynomial data files please contact me at <a href="mailto:sthornt7@uwo.ca">sthornt7@uwo.ca</a>.__
+
 Download all characteristic polynomials:
 - <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_0_1/Data/CharPolys.zip">CharPolys.zip</a> (242MB)
 - <a href="http://cpdb.bohemianmatrices.com/UpperHessenberg/UH_1_Subdiag_0_1/Data/CharPolys.tar.gz">CharPolys.tar.gz</a> (242MB)
@@ -110,4 +112,3 @@ Download all properties: <a href="http://cpdb.bohemianmatrices.com/UpperHessenbe
 | 6x6 | | | 1 | | | |
 | 7x7 | | | 1 | | | |
 | 8x8 | | | 1 | | | |
-

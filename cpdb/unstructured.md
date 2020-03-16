@@ -8,6 +8,8 @@ permalink: /cpdb/unstructured/
 
 Matrices with no structure.
 
+__Data files have been temporarily removed due to unexpected costs, if you would like access to the characteristic polynomial data files please contact me at <a href="mailto:sthornt7@uwo.ca">sthornt7@uwo.ca</a>.__
+
 | Population | Diagonal | Link |
 | --- | --- | --- |
 | {0, +1} | {0, +1} | [Unstructured_0_1](unstructured_0_1) |

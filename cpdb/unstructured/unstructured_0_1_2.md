@@ -10,6 +10,8 @@ Matrices with entries from the set {0, +1, +2}.
 
 ## Characteristic Polynomials
 
+__Data files have been temporarily removed due to unexpected costs, if you would like access to the characteristic polynomial data files please contact me at <a href="mailto:sthornt7@uwo.ca">sthornt7@uwo.ca</a>.__
+
 Download all characteristic polynomials:
 - <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_1_2/Data/CharPolys.zip">CharPolys.zip</a> (146MB)
 - <a href="http://cpdb.bohemianmatrices.com/Unstructured/Unstructured_0_1_2/Data/CharPolys.tar.gz">CharPolys.tar.gz</a> (146MB)

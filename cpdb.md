@@ -20,6 +20,8 @@ Upper Hessenberg matrices with subdiagonal entries fixed at 1.
 
 ## Data Files
 
+__Data files have been temporarily removed due to unexpected costs, if you would like access to the characteristic polynomial data files please contact me at <a href="mailto:sthornt7@uwo.ca">sthornt7@uwo.ca</a>.__
+
 ### Polynomial Files
 All characteristic polynomial and minimal polynomial files are CSV files with
 no header. They have been provided in uncompressed format, as well as
