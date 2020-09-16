@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
+#### 2020
+- Chan, E. Y., Corless, R. M., Gonzalez-Vega, L., Sendra, J. R., Sendra, J., & Thornton, S. E. (2020). Upper Hessenberg and Toeplitz Bohemians. <i>Linear Algebra and its Applications</i>. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0024379520301713" target="_blank">link</a>]
+
 #### 2018
 - Chan, E. Y. S., Corless, R. M., Gonzalez-Vega, L., Sendra, J. R., Sendra, J., & Thornton, S. E. (2018), Bohemian Upper Hessenberg Toeplitz Matrices, <i>arXiv preprint arXiv:1809.10664.</i> [<a href="https://arxiv.org/abs/1809.10664" target="_blank">link</a>]
 - Chan, E. Y. S., Corless, R. M., Gonzalez-Vega, L., Sendra, J. R., Sendra, J., & Thornton, S. E. (2018), Bohemian Upper Hessenberg Matrices, <i>arXiv preprint arXiv:1809.10653.</i> [<a href="https://arxiv.org/abs/1809.10653" target="_blank">link</a>]
