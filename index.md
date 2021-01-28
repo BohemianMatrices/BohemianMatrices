@@ -11,10 +11,10 @@ Welcome to the __Bohemian matrices__ homepage. Our website is still cooking but 
 <br><br>
 
 <ul>
-<li><a href="http://assets.bohemianmatrices.com/calendar/2021_Bohemian_Wall_CalendarA4Sunday.pdf" target="_blank">A4 Week Start on Sunday</a></li>
-<li><a href="http://assets.bohemianmatrices.com/calendar/2021_Bohemian_Wall_CalendarA4Monday.pdf" target="_blank">A4 Week Start on Monday</a></li>
-<li><a href="http://assets.bohemianmatrices.com/calendar/2021_Bohemian_Wall_CalendarLetterSunday.pdf" target="_blank">Letter Week Start on Sunday</a></li>
-<li><a href="http://assets.bohemianmatrices.com/calendar/2021_Bohemian_Wall_CalendarLetterMonday.pdf" target="_blank">Letter Week Start on Monday</a></li>
+<li><a href="http://assets.bohemianmatrices.com/calendar/2021_Bohemian_Wall_CalendarA4Sunday.pdf" target="_blank">A4 Paper - Week Start on Sunday</a></li>
+<li><a href="http://assets.bohemianmatrices.com/calendar/2021_Bohemian_Wall_CalendarA4Monday.pdf" target="_blank">A4 Paper - Week Start on Monday</a></li>
+<li><a href="http://assets.bohemianmatrices.com/calendar/2021_Bohemian_Wall_CalendarLetterSunday.pdf" target="_blank">Letter Paper - Week Start on Sunday</a></li>
+<li><a href="http://assets.bohemianmatrices.com/calendar/2021_Bohemian_Wall_CalendarLetterMonday.pdf" target="_blank">Letter Paper - Week Start on Monday</a></li>
 </ul>
 <b>Feel free to share or print the calendar!</b>
 </div>
