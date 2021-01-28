@@ -6,6 +6,19 @@ permalink: /
 
 Welcome to the __Bohemian matrices__ homepage. Our website is still cooking but in the mean time you should check out our <a href="{{ '/gallery' | prepend: site.baseurl | prepend: site.url }}">awesome gallery</a> of Bohemian eigenvalue plots!
 
+<div class="alert">
+<b>Our 2021 calendar is now available.</b> You can download the calendar here:
+<br><br>
+
+<ul>
+<li><a href="http://assets.bohemianmatrices.com/calendar/2021_Bohemian_Wall_CalendarA4Sunday.pdf" target="_blank">A4 Week Start on Sunday</a></li>
+<li><a href="http://assets.bohemianmatrices.com/calendar/2021_Bohemian_Wall_CalendarA4Monday.pdf" target="_blank">A4 Week Start on Monday</a></li>
+<li><a href="http://assets.bohemianmatrices.com/calendar/2021_Bohemian_Wall_CalendarLetterSunday.pdf" target="_blank">Letter Week Start on Sunday</a></li>
+<li><a href="http://assets.bohemianmatrices.com/calendar/2021_Bohemian_Wall_CalendarLetterMonday.pdf" target="_blank">Letter Week Start on Monday</a></li>
+</ul>
+<b>Feel free to share or print the calendar!</b>
+</div>
+
 ## What are Bohemian Matrices?
 A family of __Bohemian matrices__ is a distribution of random matrices where the matrix entries are sampled from a discrete set of bounded height. The discrete set must be independent of the dimension of the matrices.
 
