@@ -178,7 +178,8 @@ Therefore, the conjecture is false.
 
 #### Conjecture 9
 - __Conjecture:__ The number of distinct determinants of an $n \times n$ upper-Hessenberg matrix with entries from the set $\\{0, 1\\}$, subdiagonal entries fixed at 1, and diagonal entries fixed at 0 is given by sequence [A212264](http://oeis.org/A212264).
-- __Status:__ Open
+- __Reference:__ Du, Z., da Fonseca, C. M., Xu, Y., & Ye, J. (2021). Disproving a conjecture of Thornton on Bohemian matrices. _Open Mathematics, 19_(1), 505-514.
+- __Status:__ False
 
 #### Conjecture 10
 - __Conjecture:__ All upper-Hessenberg matrices with subdiagonal entries fixed at 1 are non-derogatory.
