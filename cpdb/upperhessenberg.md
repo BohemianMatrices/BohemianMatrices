@@ -8,7 +8,9 @@ permalink: /cpdb/upperhessenberg/
 
 Upper Hessenberg matrices with subdiagonal entries fixed at 1.
 
-__Data files have been temporarily removed due to unexpected costs, if you would like access to the characteristic polynomial data files please contact me at <a href="mailto:sthornt7@uwo.ca">sthornt7@uwo.ca</a>.__
+<div class="alert">
+Data files have been temporarily removed due to unexpected costs, if you would like access to the characteristic polynomial data files please contact me at <a href="mailto:sthornt7@uwo.ca">sthornt7@uwo.ca</a>.
+</div>
 
 | Population | Subdiagonal | Diagonal | Link |
 | --- | --- | --- | --- |
